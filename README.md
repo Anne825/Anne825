@@ -1,5 +1,5 @@
 ## Hello, world! 👋 My name is Anne
- I am a student at SAIT majoring in interactive design - Graphics design. I love making my imaginations come to life and have always wondered if I can make my gift a profession. Although I still have much to learn 
+ I am a student at SAIT majoring in interactive design - Graphics design. I love making my imaginations come to life and have always had a creative mindset. Although I still have much to learn, I will do my job as a student to the best of my abilities.
 
 **Anne825/Anne825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
