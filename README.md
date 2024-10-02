@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello, world! 👋 My name is Anne
+ I am a student at SAIT majoring in interactive design - Graphics design. 
 <!--
 **Anne825/Anne825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
